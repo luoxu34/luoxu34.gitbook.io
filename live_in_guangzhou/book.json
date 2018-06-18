@@ -1,0 +1,40 @@
+{
+    "title": "Live in GuangZhou",
+    "description": "",
+    "author": "luoxu34 <zhang_zengjie@outlook.com>",
+    "extension": null,
+    "generator": "site",
+    "isbn": "",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        }
+    },
+    "output": null,
+    "pdf": {
+        "toc": true,
+        "pageNumbers": true,
+        "fontSize": 18,
+        "paperSize": "a4",
+        "margin": {
+          "right": 30,
+          "left": 30,
+          "top": 30,
+          "bottom": 50
+        }
+    },
+    "plugins": [
+        "disqus",
+        "theme-comscore"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "introducetogitbook"
+        }
+    },
+    "variables": {}
+}
