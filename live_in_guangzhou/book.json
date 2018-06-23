@@ -4,19 +4,15 @@
     "author": "luoxu34 <zhang_zengjie@outlook.com>",
     "extension": null,
     "generator": "site",
+    "language" : "zh-hans",
     "isbn": "",
     "links": {
         "sharing": {
-            "all": null,
-            "facebook": null,
-            "google": null,
-            "twitter": null,
-            "weibo": null
+            "all": null
         }
     },
     "output": null,
     "pdf": {
-        "toc": true,
         "pageNumbers": true,
         "fontSize": 18,
         "paperSize": "a4",
@@ -28,9 +24,36 @@
         }
     },
     "plugins": [
+        "anchor-navigation-ex",
+        "edit-link",
+        "github",
+        "-lunr",
+        "-search",
+        "search-plus",
+        "splitter",
+        "tbfed-pagefooter",
         "theme-comscore"
     ],
     "pluginsConfig": {
+        "anchor-navigation-ex": {
+            "isShowTocTitleIcon": true,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        },
+        "edit-link": {
+            "base": "https://github.com/luoxu34/luoxu34.gitbook.io/blob/master/live_in_guangzhou",
+            "label": ""
+        },
+        "github": {
+            "url": "https://github.com/luoxu34/luoxu34.gitbook.io"
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy luoxu34 2018",
+            "modify_label": "committed on",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
     },
     "variables": {}
 }
+
