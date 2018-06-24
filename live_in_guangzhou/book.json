@@ -24,6 +24,7 @@
         }
     },
     "plugins": [
+        "alerts",
         "anchor-navigation-ex",
         "edit-link",
         "github",
