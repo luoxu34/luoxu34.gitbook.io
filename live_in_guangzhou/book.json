@@ -27,7 +27,11 @@
         "alerts",
         "anchor-navigation-ex",
         "edit-link",
+        "favicon",
         "github",
+        "-highlight",
+        "prism",
+        "prism-themes",
         "-lunr",
         "-search",
         "search-plus",
@@ -36,7 +40,11 @@
         "theme-comscore"
     ],
     "pluginsConfig": {
+        "theme-default": {
+            "showLevel": false
+        },
         "anchor-navigation-ex": {
+            "showLevel": true,
             "isShowTocTitleIcon": true,
             "tocLevel1Icon": "fa fa-hand-o-right",
             "tocLevel2Icon": "fa fa-hand-o-right",
@@ -46,8 +54,17 @@
             "base": "https://github.com/luoxu34/luoxu34.gitbook.io/blob/master/live_in_guangzhou",
             "label": ""
         },
+        "favicon": {
+            "shortcut": "favicon.ico",
+            "bookmark": "favicon.ico"
+        },
         "github": {
             "url": "https://github.com/luoxu34/luoxu34.gitbook.io"
+        },
+        "prism": {
+            "css": [
+                "prism-themes/themes/prism-xonokai.css"
+            ]
         },
         "tbfed-pagefooter": {
             "copyright":"Copyright &copy luoxu34 2018",
@@ -57,4 +74,3 @@
     },
     "variables": {}
 }
-
