@@ -27,7 +27,6 @@
         "alerts",
         "anchor-navigation-ex",
         "edit-link",
-        "favicon",
         "github",
         "-highlight",
         "prism",
@@ -53,10 +52,6 @@
         "edit-link": {
             "base": "https://github.com/luoxu34/luoxu34.gitbook.io/blob/master/live_in_guangzhou",
             "label": ""
-        },
-        "favicon": {
-            "shortcut": "favicon.ico",
-            "bookmark": "favicon.ico"
         },
         "github": {
             "url": "https://github.com/luoxu34/luoxu34.gitbook.io"
