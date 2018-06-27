@@ -10,5 +10,7 @@
 
 ## LeetCode
 
-## IDLE
+## Development Tools
+
+* [Text Editor and IDE](tools/text-editor-and-ide.md)
 
