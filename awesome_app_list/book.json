@@ -1,0 +1,72 @@
+{
+    "title": "Awesome App List",
+    "description": "",
+    "author": "luoxu34 <zhang_zengjie@outlook.com>",
+    "extension": null,
+    "generator": "site",
+    "language" : "en",
+    "isbn": "",
+    "links": {
+        "sharing": {
+            "all": null
+        }
+    },
+    "output": null,
+    "pdf": {
+        "pageNumbers": true,
+        "fontSize": 18,
+        "paperSize": "a4",
+        "margin": {
+          "right": 30,
+          "left": 30,
+          "top": 30,
+          "bottom": 50
+        }
+    },
+    "plugins": [
+        "advanced-emoji",
+        "alerts",
+        "anchor-navigation-ex",
+        "edit-link",
+        "github",
+        "-highlight",
+        "prism",
+        "prism-themes",
+        "-lunr",
+        "-search",
+        "search-plus",
+        "splitter",
+        "tbfed-pagefooter",
+        "theme-comscore"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": false
+        },
+        "anchor-navigation-ex": {
+            "showLevel": true,
+            "isShowTocTitleIcon": true,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        },
+        "edit-link": {
+            "base": "https://github.com/luoxu34/luoxu34.gitbook.io/blob/master/awesome_app_list",
+            "label": ""
+        },
+        "github": {
+            "url": "https://github.com/luoxu34/luoxu34.gitbook.io"
+        },
+        "prism": {
+            "css": [
+                "prism-themes/themes/prism-xonokai.css"
+            ]
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy luoxu34 2018",
+            "modify_label": "committed on",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    },
+    "variables": {}
+}

@@ -4,4 +4,3 @@
 
 * Adblock Plus
 * [SimpRead](http://ksria.com/simpread/) 简悦
-
