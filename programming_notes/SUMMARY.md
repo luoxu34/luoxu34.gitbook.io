@@ -11,6 +11,10 @@
 
 ## LeetCode
 
+## Linux
+
+* [Terminal Shortcuts](linux/terminal-shortcuts.md)
+
 ## Development Tools
 
 * [Build A Git Server](tools/build-git-server.md)
