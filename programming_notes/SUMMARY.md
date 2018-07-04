@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 
+## Shell
+
+* [Case Statement](shell/case-statement-and-init-script.md)
+
 ## Python
 
 * [Common Python Usages](python/common-python-usages.md)
