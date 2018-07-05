@@ -10,7 +10,8 @@
 
 ## 效率
 
-* Snipaste
+* QuickLook 快速预览
+* Microsoft Whiteboard
 * [FastCopy](https://ipmsg.org/tools/fastcopy.html)
 * [Clover3](http://cn.ejie.me/) 多标签资源管理器
 * [Launchy](http://launchy.net) 快速启动工具，还有很多扩展[插件](http://launchy.net/plugins.php)
@@ -22,6 +23,7 @@
 
 * Fliqlo 翻页式时间屏保
 * Mcool 透明化嵌入桌面的音乐播放器
+* Mactype 字体渲染
 
 ## 下载工具
 
