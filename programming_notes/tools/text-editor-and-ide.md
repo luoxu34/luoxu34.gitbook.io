@@ -9,10 +9,14 @@
 ----
 
 ## Sublime Text 3
+
 `sudo snap install --classic sublime-text-3`
 
 ## PyCharm Community Edition
+
 `sudo snap install --classic pycharm-community`
 
 ## Visual Studio Code
+
 `sudo snap install --classic vscode`
+

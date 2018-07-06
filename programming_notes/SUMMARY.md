@@ -17,6 +17,7 @@
 
 ## Linux
 
+* [Command Lines](linux/command-lines.md)
 * [Terminal Shortcuts](linux/terminal-shortcuts.md)
 
 ## Development Tools
