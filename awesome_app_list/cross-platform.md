@@ -10,3 +10,4 @@
 * ShadowsocksR
 * Google Chrome
 * [Microsoft To-Do](https://todo.microsoft.com/)
+* XMind ZEN

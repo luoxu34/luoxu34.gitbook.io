@@ -1,17 +1,21 @@
 # Windows
 
-* [2345看图王](http://pic.2345.com)
+## 日常
+
 * [360压缩](http://yasuo.360.cn)
-* [火绒安全软件](https://www.huorong.cn)
+* [2345看图王](http://pic.2345.com)
 * [手心输入法](http://www.xinshuru.com)
-* [微PE工具箱](http://www.wepe.com.cn/download.html)
-* [Dism++ 清理工具](http://www.chuyu.me/zh-Hans/index.html)
 * [PotPlayer](http://potplayer.daum.net)
+
+## 办公
+
+* [TIM](http://tim.qq.com)
 
 ## 效率
 
 * QuickLook 快速预览
 * Microsoft Whiteboard
+* [桌面日历]( http://chs.desktopcal.com/chs/)
 * [FastCopy](https://ipmsg.org/tools/fastcopy.html)
 * [Clover3](http://cn.ejie.me/) 多标签资源管理器
 * [Launchy](http://launchy.net) 快速启动工具，还有很多扩展[插件](http://launchy.net/plugins.php)
@@ -25,7 +29,17 @@
 * Mcool 透明化嵌入桌面的音乐播放器
 * Mactype 字体渲染
 
+## 安全与优化
+
+* [DISM++](https://www.chuyu.me/zh-Hans/index.html)
+* [火绒安全软件](https://www.huorong.cn)
+
 ## 下载工具
 
 * [Eagleget](http://www.eagleget.com)
 * [Pan Download](http://pandownload.com/index.html) 第三方百度云客户端
+
+## 重装与启动项
+
+* [360系统冲重装大师](http://renew.360.cn/)
+* [微PE工具箱](http://www.wepe.com.cn/download.html)
