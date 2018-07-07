@@ -44,11 +44,11 @@
 
 ## 透明背景和颜色
 
+![](../images/putty_tray/7_colours.png)
+
 > **[warning] 提示**
 > 
 > 建议选中`The font`，不然可能导致终端`ls --color=auto`配色失效
-
-![](../images/putty_tray/7_colours.png)
 
 ## Ctrl+Etner才打开超链接
 
