@@ -4,6 +4,7 @@
 
 ----
 
+* [tmp](tmp.md)
 * [Online Tools](online-tools.md)
 * [Wechat Miniprogram](wx-miniprogram.md)
 
@@ -15,10 +16,5 @@
 
 * [Chrome](chrome.md)
 * [Linux](linux.md)
-* [Mac](mac.md)
 * [Windows](windows.md)
 
-## Mobile
-
-* [Android](android.md)
-* [iOS](ios.md)
