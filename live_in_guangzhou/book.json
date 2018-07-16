@@ -58,7 +58,7 @@
         },
         "prism": {
             "css": [
-                "prism-themes/themes/prism-xonokai.css"
+                "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
             ]
         },
         "tbfed-pagefooter": {
