@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Embedded](embedded.md)
 
 ## Shell
 
@@ -25,5 +26,5 @@
 * [Build A Git Server](tools/build-git-server.md)
 * [PuTTY Tray Configuration](tools/putty-tray-configuration.md)
 * [Text Editor and IDE](tools/text-editor-and-ide.md)
-* [VirtualBox Install CentOS7](tools/virtualBox-installs-centOS7-1611.md)
+* [VirtualBox Install CentOS7](tools/virtualBox-install-centos7-1611.md)
 

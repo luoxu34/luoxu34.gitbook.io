@@ -16,7 +16,15 @@
 
 `sudo snap install --classic pycharm-community`
 
+扩展：[15 款炫酷的 Sublime Text 插件推荐](https://www.oschina.net/translate/15-awesome-sublime-text-plugins-for-web-development)
+
 ## Visual Studio Code
 
 `sudo snap install --classic vscode`
+
+扩展：让开发更快更顺畅的 VS Code 插件推荐
+
+https://www.oschina.net/translate/top-visual-studio-code-extensions
+
+https://www.oschina.net/translate/top-visual-studio-code-extensions-2
 
