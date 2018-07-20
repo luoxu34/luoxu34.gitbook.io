@@ -20,6 +20,7 @@
 
 * [Command Lines](linux/command-lines.md)
 * [Terminal Shortcuts](linux/terminal-shortcuts.md)
+* [ZFS Installation](zfs-installation.md)
 
 ## Development Tools
 
