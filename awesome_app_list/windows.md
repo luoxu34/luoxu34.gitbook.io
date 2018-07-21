@@ -15,9 +15,9 @@
 
 * QuickLook 快速预览
 * Microsoft Whiteboard
-* [桌面日历]( http://chs.desktopcal.com/chs/)
+* [桌面日历]( http://chs.desktopcal.com/chs)
 * [FastCopy](https://ipmsg.org/tools/fastcopy.html)
-* [Clover3](http://cn.ejie.me/) 多标签资源管理器
+* [Clover3](http://cn.ejie.me) 多标签资源管理器
 * [Launchy](http://launchy.net) 快速启动工具，还有很多扩展[插件](http://launchy.net/plugins.php)
 * [Everything](http://www.voidtools.com) 系统搜索工具
 * [腾讯桌面整理](http://pc.qq.com/detail/5/detail_23125.html)
@@ -32,6 +32,7 @@
 ## 安全与优化
 
 * [DISM++](https://www.chuyu.me/zh-Hans/index.html)
+* [软媒魔方](http://mofang.ruanmei.com)
 * [火绒安全软件](https://www.huorong.cn)
 
 ## 下载工具
@@ -41,5 +42,9 @@
 
 ## 重装与启动项
 
-* [360系统冲重装大师](http://renew.360.cn/)
+* DiskGenius
+* [EasyBCD](https://neosmart.net/EasyBCD)
+* [傲梅分区助手](https://www.disktool.cn)
+* [360系统冲重装大师](http://renew.360.cn)
 * [微PE工具箱](http://www.wepe.com.cn/download.html)
+
