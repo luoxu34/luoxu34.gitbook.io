@@ -10,10 +10,13 @@
 
 * [书单](book-list.md)
 * [书钞](shu-chao.md)
+    * [词](ci.md)
     * [清静经](shuchao/qing-jing-jing.md)
     * [太極圖說](shuchao/tai-ji-tu-shuo.md)
     * [季札挂剑](shuchao/ji-zha-gua-jian.md)
+    * [游褒禅山记](shuchao/you-bao-chan-shan-ji.md)
     * [卖柑者言](shuchao/mai-gan-zhe-yan.md)
+    * [富兰克林的十三种德行](shi-san-zhong-de-xing.md)
 * [演讲](speech.md)
 * [故事](story.md)
     * [专注](story/zhuan-zhu.md)
