@@ -4,6 +4,6 @@
 
 ## About Me
 
-:octocat: github.com/luoxu34
+:octocat: https://github.com/luoxu34
 
 :mailbox: zhang_zengjie@outlook.com
