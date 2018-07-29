@@ -25,6 +25,7 @@
 ## Development Tools
 
 * [Build A Git Server](tools/build-git-server.md)
+* [Subversion 1.10 Installaton](tools/centos-install-svn-1-10.md)
 * [PuTTY Tray Configuration](tools/putty-tray-configuration.md)
 * [Text Editor and IDE](tools/text-editor-and-ide.md)
 * [VirtualBox Install CentOS7](tools/virtualBox-install-centos7-1611.md)
