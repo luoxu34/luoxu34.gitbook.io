@@ -73,7 +73,7 @@ conda config --set show_channel_urls yes
 
 退出环境： source deactivate
 
-手册下载： [conda-cheatsheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
+手册下载： [conda-cheatsheet.pdf](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
 
 # 参考
 

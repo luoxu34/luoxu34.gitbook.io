@@ -67,6 +67,11 @@ git version 1.8.3.1
 # git --version
 git version 2.18.0
 ```
+> **[success] 安装成功**
+> 
+> 安装后就可以使用git命令克隆项目，例如：
+> 
+> $ git clone https://gitee.com/mirrors/git.git
 
 ## 创建git账号
 
