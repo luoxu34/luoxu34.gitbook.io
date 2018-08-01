@@ -1,6 +1,7 @@
 # Apps
 
 * [字里行间](https://zi.com/)
+* MyScript Calculator 手写计算器
 
 ## Android
 
@@ -32,9 +33,11 @@
 
 * [Card Diary](https://carddiary.me) - Minimalists Micro-Diarying App
 * LiveFun 动态锁屏壁纸
+* Take It Easy 宾戈游戏
 
 ## Apple Mac
 
 * Android tool for Mac
 * Dr. Unarchiver 解压缩工具
 * isHUD 一键切换输入法
+
