@@ -25,6 +25,7 @@
 ## Development Tools
 
 * [Build A Git Server](tools/build-git-server.md)
+* [Understand Git Diff](tools/understand-git-diff.md)
 * [Subversion 1.10 Installaton](tools/centos-install-svn-1-10.md)
 * [PuTTY Tray Configuration](tools/putty-tray-configuration.md)
 * [Text Editor and IDE](tools/text-editor-and-ide.md)
