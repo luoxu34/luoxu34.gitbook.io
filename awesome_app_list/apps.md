@@ -1,5 +1,6 @@
 # Apps
 
+* 多看阅读
 * [字里行间](https://zi.com/)
 * MyScript Calculator 手写计算器
 
@@ -27,6 +28,7 @@
 ## Apple
 
 * [Agenda](https://agenda.com/) - An elegant new take on Notes
+* [Bear](http://www.bear-writer.com/) - Write beautifully on iPhone, iPad, and Mac
 * Outlinely 树形笔记应用
 
 ## Apple iOS

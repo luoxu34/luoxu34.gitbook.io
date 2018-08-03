@@ -27,7 +27,7 @@
 ## 工具
 
 * FeHelper - WEB前端助手
-* [谷歌上网助手](http://googlehelper.net/) or 谷歌访问助手
+* [谷歌上网助手](http://googlehelper.net/)
 * Kami - PDF and Document Markup
 
 ## for github
