@@ -30,4 +30,5 @@
 * [PuTTY Tray Configuration](tools/putty-tray-configuration.md)
 * [Text Editor and IDE](tools/text-editor-and-ide.md)
 * [VirtualBox Install CentOS7](tools/virtualBox-install-centos7-1611.md)
+* [Getting started with MongoDB](tools/getting-started-with-mongodb.md)
 
