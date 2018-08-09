@@ -17,6 +17,15 @@ s2 = ''.join(l)  # join的对象必须可迭代
 s3 = ''.join(reversed(s))
 ```
 
+## F-strings
+
+新鲜事物，python3.6.2开始出现，PEP 498提出的一种新型字符串格式化机制
+
+```python
+name = 'luoxu34'
+print(f'hello {name}')    # 'hello luoxu34'
+```
+
 ## 漂亮的json格式
 
 ```python
