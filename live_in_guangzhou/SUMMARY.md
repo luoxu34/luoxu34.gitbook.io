@@ -14,6 +14,7 @@
     * [清静经](shuchao/qing-jing-jing.md)
     * [太極圖說](shuchao/tai-ji-tu-shuo.md)
     * [季札挂剑](shuchao/ji-zha-gua-jian.md)
+    * [师说](shuchao/shi-shuo.md)
     * [游褒禅山记](shuchao/you-bao-chan-shan-ji.md)
     * [卖柑者言](shuchao/mai-gan-zhe-yan.md)
     * [富兰克林的十三种德行](shi-san-zhong-de-xing.md)
