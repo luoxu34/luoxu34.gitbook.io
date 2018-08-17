@@ -12,11 +12,12 @@
 * 达达划词翻译
 * 百度截图翻译
 
-## 截屏/图片下载
+## 截屏/图片/视频下载
 
 * FireShot
 * Full Page Screen Capture
 * Fatkun图片批量下载
+* Video Downloader professional
 
 ## 标签页/书签
 
