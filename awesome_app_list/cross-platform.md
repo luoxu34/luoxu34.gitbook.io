@@ -1,7 +1,5 @@
 # Cross Platform
 
-## 效率类
-
 * [f.lux](https://justgetflux.com/)
 * [Notion](https://www.notion.so/)
 * [Snipaste](https://zh.snipaste.com/)
@@ -11,3 +9,6 @@
 * Google Chrome
 * [Microsoft To-Do](https://todo.microsoft.com/)
 * XMind ZEN
+* [字由](http://www.hellofont.cn/)
+* [Typora](https://typora.io/)
+
