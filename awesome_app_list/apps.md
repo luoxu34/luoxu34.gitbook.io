@@ -1,6 +1,7 @@
 # Apps
 
 * 多看阅读
+* [格子笔记](https://note.sumi.io/)
 * [字里行间](https://zi.com/)
 * MyScript Calculator 手写计算器
 
