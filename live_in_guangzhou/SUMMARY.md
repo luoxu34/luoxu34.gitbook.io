@@ -22,6 +22,7 @@
     * [富兰克林的十三种德行](shi-san-zhong-de-xing.md)
 * [演讲](speech.md)
 * [故事](story.md)
+    * [梦想](story/dream.md)
     * [专注](story/zhuan-zhu.md)
     * [格局](story/ge-ju.md)
     * [逆向思维](story/ni-xiang-si-wei.md)
