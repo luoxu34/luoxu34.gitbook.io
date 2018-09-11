@@ -9,6 +9,7 @@
 
 ## Python
 
+* [Install Python2.7 on CentOS6.x](python/centos6-install-python27.md)
 * [Common Python Usages](python/common-python-usages.md)
 * [Miniconda Introduction](python/miniconda-introduction.md)
 
