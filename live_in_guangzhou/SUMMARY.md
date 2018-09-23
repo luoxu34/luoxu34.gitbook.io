@@ -21,6 +21,7 @@
     * [围棋十诀](shuchao/wei-qi-shi-jue.md)
     * [富兰克林的十三种德行](shi-san-zhong-de-xing.md)
     * [未选择的路](shuchao/the-road-not-taken.md)
+    * [印象](shuchao/yin-xiang.md)
 * [演讲](speech.md)
 * [故事](story.md)
     * [梦想](story/dream.md)
