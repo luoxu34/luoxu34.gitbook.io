@@ -12,8 +12,9 @@
 * 达达划词翻译
 * 百度截图翻译
 
-## 截屏/图片/视频下载
+## 截屏/图片/音视频下载
 
+* 声海盗
 * FireShot
 * Full Page Screen Capture
 * Fatkun图片批量下载
