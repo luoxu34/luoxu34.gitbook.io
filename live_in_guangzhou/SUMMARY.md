@@ -9,7 +9,6 @@
 ----
 
 * [读书笔记](reading.md)
-* [书单](book-list.md)
 * [书钞](shu-chao.md)
     * [词](ci.md)
     * [清静经](shuchao/qing-jing-jing.md)
