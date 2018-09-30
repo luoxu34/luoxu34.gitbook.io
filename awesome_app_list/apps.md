@@ -1,7 +1,6 @@
 # Apps
 
 * 多看阅读
-* [格子笔记](https://note.sumi.io/)
 * [字里行间](https://zi.com/)
 * MyScript Calculator 手写计算器
 
@@ -34,9 +33,11 @@
 
 ## Apple iOS
 
-* [Card Diary](https://carddiary.me) - Minimalists Micro-Diarying App
+* [格子笔记](https://note.sumi.io/)
+* [Card Diary](https://carddiary.me) 卡片日记
 * LiveFun 动态锁屏壁纸
 * Take It Easy 宾戈游戏
+* Price Tag 降价/限免提醒
 
 ## Apple Mac
 
