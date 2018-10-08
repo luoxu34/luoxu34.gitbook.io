@@ -18,11 +18,12 @@
 
 ## LeetCode
 
-## Linux
+## Linux/Uinx
 
 * [Command Lines](linux/command-lines.md)
 * [Terminal Shortcuts](linux/terminal-shortcuts.md)
 * [ZFS Installation](zfs-installation.md)
+* [Notes for AIX](notes-for-aix.md)
 
 ## Development Tools
 
