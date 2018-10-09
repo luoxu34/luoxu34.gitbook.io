@@ -28,6 +28,7 @@
 
 ## 工具
 
+* Set Character Encoding
 * FeHelper - WEB前端助手
 * [谷歌上网助手](http://googlehelper.net/)
 * Kami - PDF and Document Markup
