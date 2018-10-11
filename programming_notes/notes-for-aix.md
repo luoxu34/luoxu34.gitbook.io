@@ -1,5 +1,11 @@
 # AIX使用笔记
 
+## 重要的网址
+
+* [AIX命令参考大全](http://www.kuqin.com/aixcmds/)
+* [AIX Open Source Packages](http://www.perzl.org/aix/index.php)
+* [Large Open Source Software Archive for AIX](http://www.bullfreeware.com/toolbox.php)
+
 ## 查看内存使用
 
 相当于linux的free命令
