@@ -12,6 +12,7 @@
 * [读书与学问](du-shu-yu-xue-wen.md)
 * [书钞](shu-chao.md)
     * [词](ci.md)
+    * [淇奥](shuchao/qi-yu.md)
     * [清静经](shuchao/qing-jing-jing.md)
     * [太極圖說](shuchao/tai-ji-tu-shuo.md)
     * [季札挂剑](shuchao/ji-zha-gua-jian.md)
