@@ -62,5 +62,51 @@ ansible                            2.4.3.0
 
 ## 常用命令
 
+| 目的 | 命令 |
+| --- | --- |
+| 查看pip版本 | pip -V |
+| 搜索包 | pip search pip |
+| 查看某个已安装包信息 | pip show pip |
+| 安装网上包 | pip install fabric |
+| 安装本地包 | pip install pip-9.0.0.tar.gz |
+| 指定pypi源安装包 | pip install -i https://mirrors.aliyun.com/pypi/simple/ fabric |
+| 指定版本安装 | pip install fabric==2.4.0 |
+| 列出已安装包 | pip list |
+| 检查更新 |  pip list --outdated |
+| 更新某个包 | pip install -U pip |
+| 卸载某个包 | pip uninstall pip -y |
+
 ## 其他技巧
+
+### 安装旧版本包
+
+如果不想安装最新包，但是不知都有哪些版本：
+
+`pip install pylibmc==`
+
+[参考链接在这里](https://stackoverflow.com/questions/4888027/python-and-pip-list-all-versions-of-a-package-thats-available)
+
+### 下载源码包而不安装
+
+下载默认是编译好的二进制包，离线部署时，最好下载源码包：
+
+`pip download --no-binary :all: pip`
+
+### 导出/导入环境
+
+导出requirements.txt
+
+`pip freeze > requirements.txt`
+
+导入环境(网络版)
+
+`pip install -r requirements.txt`
+
+导入环境(本地版)
+
+`pip install -r requirements.txt --no-index -f /path/to/your/packages-dir`
+
+## 显示某包的依赖
+
+请使用 [`pipdeptree`](https://github.com/naiquevin/pipdeptree)
 
