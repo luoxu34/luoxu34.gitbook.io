@@ -41,3 +41,16 @@ Output:
 }
 ```
 
+## 判断文件是否可读写
+
+```python
+import os
+os.access(path, mode)
+```
+
+参数 `mode` 有：
+* os.F_OK 检查文件是否存在
+* os.R_OK 检查文件是否可读
+* os.W_OK 检查文件是否可以写入
+* os.X_OK 检查文件是否可以执行
+
