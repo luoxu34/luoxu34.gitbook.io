@@ -54,3 +54,13 @@ os.access(path, mode)
 * os.W_OK 检查文件是否可以写入
 * os.X_OK 检查文件是否可以执行
 
+## for...else...语句
+
+总结：
+
+1. 遍历完迭代对象，执行else语句
+2. 即使是空循环也执行else
+3. 遍历时出错，不执行else语句
+4. 遍历过程中终止了循环，例如return/break，不执行else
+5. 遍历过程中没有终止循环，那可以不写else
+
