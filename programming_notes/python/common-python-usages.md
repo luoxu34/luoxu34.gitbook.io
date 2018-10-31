@@ -41,6 +41,21 @@ Output:
 }
 ```
 
+## URL解析转换成字典
+
+```python
+import urlparse
+
+def query_to_dict(query):
+    return {k: v[0] for k, v in urlparse.parse_qs(query).items()}
+
+query_str = 'a=1&b=2&3=c'
+query_dict = query_to_dict(query_str)
+
+print('before: {}'.format(query_str))
+print(' after: {}'.format(query_dict))
+```
+
 ## 判断文件是否可读写
 
 ```python
