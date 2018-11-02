@@ -14,6 +14,7 @@
 * [How To Use PIP?](python/how-to-use-pip.md)
 * [Miniconda Introduction](python/miniconda-introduction.md)
 * [Requests's post method](python/requests-post-data-and-json.md)
+* [Dynamically loading Python modules](python/import-function.md)
 
 ## Go
 
