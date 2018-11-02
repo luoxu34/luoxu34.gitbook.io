@@ -26,6 +26,7 @@
 * [Terminal Shortcuts](linux/terminal-shortcuts.md)
 * [ZFS Installation](zfs-installation.md)
 * [Notes for AIX](notes-for-aix.md)
+* [Notes for CentOS](notes-for-centos.md)
 
 ## Development Tools
 
