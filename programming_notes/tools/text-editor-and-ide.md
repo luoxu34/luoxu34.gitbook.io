@@ -8,6 +8,14 @@
 
 ----
 
+## Vim
+
+![Vim键盘表](../images/vim-cheat-sheet.gif)
+
+扩展：
+
+[Vim Advantures](https://vim-adventures.com/)
+
 ## Sublime Text 3
 
 `sudo snap install --classic sublime-text-3`
