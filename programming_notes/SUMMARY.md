@@ -13,6 +13,7 @@
 * [Common Python Usages](python/common-python-usages.md)
 * [How To Use PIP?](python/how-to-use-pip.md)
 * [Miniconda Introduction](python/miniconda-introduction.md)
+* [A trip to Jupyter](python/a-trip-to-jupyter.md)
 * [Requests's post method](python/requests-post-data-and-json.md)
 * [Dynamically loading Python modules](python/import-function.md)
 
