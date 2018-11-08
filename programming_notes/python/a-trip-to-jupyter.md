@@ -153,7 +153,9 @@ Shift-Tab | 显示Docstring
 
 `pass`
 
-## 完整的jupyter_notebook_config.py
+## 完整的配置
+
+`jupyter_notebook_config.py`
 
 ```python
 c.NotebookApp.ip = '0.0.0.0'
