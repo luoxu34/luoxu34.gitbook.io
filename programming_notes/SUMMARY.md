@@ -17,6 +17,7 @@
 * [Jupyter Lab](python/jupyter-lab.md)
 * [Requests's post method](python/requests-post-data-and-json.md)
 * [Dynamically loading Python modules](python/import-function.md)
+* [Interesting wordcloud](python/wordcloud/interesting-wordcloud.md)
 
 ## Go
 
