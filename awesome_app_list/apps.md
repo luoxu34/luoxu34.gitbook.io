@@ -33,6 +33,7 @@
 
 ## Apple iOS
 
+* 小记
 * [格子笔记](https://note.sumi.io/)
 * [Card Diary](https://carddiary.me) 卡片日记
 * LiveFun 动态锁屏壁纸
