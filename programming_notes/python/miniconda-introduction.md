@@ -1,4 +1,4 @@
-# 介绍
+# Miniconda 介绍
 
 Anaconda 是一个用于科学计算的 Python 发行版，支持 Linux, Mac, Windows, 包含了众多流行的科学计算、数据分析的 Python 包。
 
@@ -17,6 +17,7 @@ Anaconda 下载 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
 Miniconda 下载 https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/
 
 # 安装
+
 ```
 $ bash Miniconda3-latest-Linux-x86_64.sh
 
@@ -52,30 +53,51 @@ source环境配置文件后，执行 `conda -V` 看到版本信息说明安装�
 
 # 配置
 
-配置 Anaconda 仓库的镜像
+## 配置 Anaconda 仓库的镜像
+
 ```
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
 conda config --set show_channel_urls yes
 ```
 
-第一次运行 `conda config` 命令时，会在 home 目录自动创建 .condarc 配置文件
+第一次运行 `conda config` 命令时，会在 `home` 目录自动创建 `.condarc` 配置文件。
+
+## Conda 三方源
+
+### Conda Forge
+
+```
+$ conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+```
+
+当然，也可以临时指定安装源而不配置，如下：
+
+```
+$ conda install -c conda-forge wordcloud
+```
 
 # 使用
 
-查看环境： conda env list
+查看配置：conda config --show
 
-创建环境： conda create --name=jupyter -y
+查看环境：conda env list
 
-删除环境： conda remove --name=jupyter --all -y
+创建环境：conda create --name=jupyter -y
 
-进入环境： source activate jupyter
+删除环境：conda remove --name=jupyter --all -y
 
-退出环境： source deactivate
+进入环境：source activate jupyter
+
+退出环境：source deactivate
+
+安装某个包：conda install *package_name*
+
+指定channel安装某个包：conda install -c *channel_name* *pachage_name*
 
 更新所有包：conda update --all
 
-手册下载： [conda-cheatsheet.pdf](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
+手册下载：[conda-cheatsheet.pdf](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
 
 # 参考
 
