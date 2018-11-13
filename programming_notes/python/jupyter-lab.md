@@ -10,13 +10,13 @@
 
 ## 安装
 
-```
+```bash
 $ conda install jupyterlab
 ```
 
 ## 运行
 
-```
+```bash
 # 直接运行
 $ jupyter-lab
 
@@ -35,8 +35,8 @@ $ nohup jupyter-lab > /var/log/jupyter-lab.log 2>&1 &
 ```bash
 #!/usr/bin/env sh
 # filename: jupyter_server.sh
-# author: luoxu34<luoxu34@outlook.com>
-# date: 2018-11-07
+# author  : luoxu34<luoxu34@outlook.com>
+# date    : 2018-11-07
 
 LOG_FILE="/var/log/jupyter-lab.log"
 PID_FILE="/var/run/jupyter-lab.pid"
@@ -121,5 +121,5 @@ exit $?
 
 ## 最后
 
-我已经开始使用`Jupyter Lab`，你还在等什么？！
+我已经开始使用`Jupyter Lab`，你还在等什么！
 

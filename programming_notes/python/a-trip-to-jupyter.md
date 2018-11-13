@@ -150,7 +150,7 @@ Shift + M | 合并选中的cell或合并下一个cell
 ---|---
 Esc | 切换到命令模式
 Tab | 代码补全或缩进
-Shift-Tab | 显示Docstring
+Shift + Tab | 显示Docstring
 
 ## 魔术命令
 
