@@ -7,6 +7,7 @@
 * [入职体检](ru-zhi-ti-jian.md)
 * [我的第一张信用卡](zhao-hang-xin-yong-ka.md)
 * [我的第一张信用卡II](zhao-hang-xin-yong-ka-2.md)
+* [我的第一张信用卡III](zhao-hang-xin-yong-ka-3.md)
 
 ----
 
