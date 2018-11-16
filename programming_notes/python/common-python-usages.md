@@ -79,3 +79,23 @@ os.access(path, mode)
 4. 遍历过程中终止了循环，例如return/break，不执行else
 5. 遍历过程中没有终止循环，那可以不写else
 
+## 协程的应用
+
+```python
+import aiohttp
+import asyncio
+
+async def fetch(session, url):
+    async with session.get(url) as response:
+        return await response.text()
+
+async def main():
+    async with aiohttp.ClientSession() as session:
+        html = await fetch(session, 'http://python.org')
+        print(html)
+
+loop = asyncio.get_event_loop()
+loop.run_until_complete(main())
+loop.close()
+```
+
