@@ -9,13 +9,14 @@
     * [我的第一张信用卡](credit_card/zhao-hang-xin-yong-ka.md)
     * [我的第一张信用卡II](credit_card/zhao-hang-xin-yong-ka-2.md)
     * [我的第一张信用卡III](credit_card/zhao-hang-xin-yong-ka-3.md)
+    * [招行信用卡用卡篇](credit_card/xin-yong-ka-yong-ka.md)
 
 ----
 
 * [读书笔记](reading/reading-notes.md)
     * [《巴比伦富翁的秘密》摘录](reading/ba-bi-lun-fu-weng-de-mi-mi.md)
 * [读书与学问](du-shu-yu-xue-wen.md)
-* [书钞](shu-chao.md)
+* 书钞
     * [词](ci.md)
     * [淇奥](shuchao/qi-yu.md)
     * [清静经](shuchao/qing-jing-jing.md)
