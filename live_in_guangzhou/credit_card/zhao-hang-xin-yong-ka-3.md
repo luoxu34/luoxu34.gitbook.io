@@ -20,7 +20,7 @@
 
 一般也就是参与“首刷礼”、刷卡金、还款金等活动：
 
-![](images/xin-hu-fu-li.jpg)
+![](../images/xin-hu-fu-li.jpg)
 
 ## 绑定微信公众号的好处？
 
@@ -42,7 +42,7 @@
 
 品种比较少，但是可以考虑。
 
-![](images/mai-bao-xian.jpg)
+![](../images/mai-bao-xian.jpg)
 
 ## 「招行专业版」的一个隐藏用途
 
