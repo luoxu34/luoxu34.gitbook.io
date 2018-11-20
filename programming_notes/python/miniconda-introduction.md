@@ -79,11 +79,15 @@ $ conda install -c conda-forge wordcloud
 
 # 使用
 
+基本信息：conda info
+
 查看配置：conda config --show
 
 查看环境：conda env list
 
 创建环境：conda create --name=jupyter -y
+
+指定Python版本创建环境：conda create -n py27 python=2.7
 
 删除环境：conda remove --name=jupyter --all -y
 
