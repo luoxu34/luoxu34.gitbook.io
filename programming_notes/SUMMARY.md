@@ -19,6 +19,7 @@
 * [Requests's post method](python/requests-post-data-and-json.md)
 * [Dynamically loading Python modules](python/import-function.md)
 * [Interesting wordcloud](python/wordcloud/interesting-wordcloud.md)
+* [Python timestamp & datetime](python/python_timestamp_datetime.md)
 
 ## Go
 
