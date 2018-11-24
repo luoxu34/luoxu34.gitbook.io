@@ -13,6 +13,7 @@
 
 ----
 
+* [语录](yu-lu.md)
 * [读书笔记](reading/reading-notes.md)
     * [《巴比伦富翁的秘密》摘录](reading/ba-bi-lun-fu-weng-de-mi-mi.md)
 * [读书与学问](du-shu-yu-xue-wen.md)
