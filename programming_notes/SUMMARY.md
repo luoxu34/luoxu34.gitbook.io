@@ -22,6 +22,7 @@
 * [Python timestamp & datetime](python/python-timestamp-datetime.md)
 * [Mortgage Interest Rate By Histogram](python/seaborn-barplot-demo.md)
 * [Grab Stock Theme](python/grab-stock-theme.md)
+* [Grab Stock Theme II](python/grab-stock-theme-2.md)
 
 ## Go
 
