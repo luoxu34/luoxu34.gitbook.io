@@ -88,7 +88,7 @@ def query_stock_detail(session, stock_lst):
     
     if result:
         # 按涨幅降序排列
-        return sorted(result, key=lambda item: item[3], reverse=True)
+        return sorted(result, key=lambda item: float(item[3].split()[0]), reverse=True)
     return result
 
 
