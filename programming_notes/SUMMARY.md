@@ -21,6 +21,7 @@
 * [Interesting wordcloud](python/wordcloud/interesting-wordcloud.md)
 * [Python timestamp & datetime](python/python-timestamp-datetime.md)
 * [Mortgage Interest Rate By Histogram](python/seaborn-barplot-demo.md)
+* [Grab Stock Theme](python/grab-stock-theme.md)
 
 ## Go
 
