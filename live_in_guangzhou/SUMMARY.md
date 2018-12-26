@@ -38,4 +38,5 @@
     * [格局](story/ge-ju.md)
     * [逆向思维](story/ni-xiang-si-wei.md)
     * [令人忧虑，不阅读的中国人](story/bu-yue-du-de-zhong-guo-ren.md)
+    * [最最重要的事](story/zui-zhong-yao-de-shi.md)
 
