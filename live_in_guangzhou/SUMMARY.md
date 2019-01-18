@@ -10,6 +10,7 @@
     * [我的第一张信用卡II](credit_card/zhao-hang-xin-yong-ka-2.md)
     * [我的第一张信用卡III](credit_card/zhao-hang-xin-yong-ka-3.md)
     * [招行信用卡用卡篇](credit_card/xin-yong-ka-yong-ka.md)
+* [基金交易](fund-trading.md)
 
 ----
 
