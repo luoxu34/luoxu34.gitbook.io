@@ -91,9 +91,9 @@ $ conda install -c conda-forge wordcloud
 
 删除环境：conda remove --name=jupyter --all -y
 
-进入环境：source activate jupyter
+进入环境：conda activate jupyter
 
-退出环境：source deactivate
+退出环境：conda deactivate
 
 安装某个包：conda install *package_name*
 
