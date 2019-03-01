@@ -14,6 +14,7 @@
 
 ## 效率
 
+* [Wox](https://sspai.com/post/33460)
 * QuickLook 快速预览
 * Microsoft Whiteboard
 * [桌面日历]( http://chs.desktopcal.com/chs)
