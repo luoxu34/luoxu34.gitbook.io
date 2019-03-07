@@ -38,6 +38,7 @@
 
 ## Development Tools
 
+* [Tool List](tool-list.md)
 * [Build A Git Server](tools/build-git-server.md)
 * [Understand Git Diff](tools/understand-git-diff.md)
 * [Subversion 1.10 Installaton](tools/centos-install-svn-1-10.md)
