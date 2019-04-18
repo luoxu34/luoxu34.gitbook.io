@@ -15,6 +15,7 @@
 ## 效率
 
 * [Wox](https://sspai.com/post/33460)
+* Ditto 剪贴板管理
 * QuickLook 快速预览
 * Microsoft Whiteboard
 * [桌面日历]( http://chs.desktopcal.com/chs)
@@ -29,7 +30,7 @@
 
 * Fliqlo 翻页式时间屏保
 * Mcool 透明化嵌入桌面的音乐播放器
-* Mactype 字体渲染
+* MacType 字体渲染
 
 ## 安全与优化
 

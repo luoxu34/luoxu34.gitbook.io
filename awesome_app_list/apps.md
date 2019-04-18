@@ -44,6 +44,7 @@
 * LiveFun 动态锁屏壁纸
 * Take It Easy 宾戈游戏
 * Price Tag 降价/限免提醒
+* 熊猫吃短信
 
 ## Apple Mac
 
