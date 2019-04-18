@@ -17,4 +17,5 @@
 * [Chrome](chrome.md)
 * [Linux](linux.md)
 * [Windows](windows.md)
+* [Windows 10 Shortcut](windows-10-shortcut.md)
 
