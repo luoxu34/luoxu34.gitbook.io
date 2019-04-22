@@ -4,9 +4,9 @@ Record the common commands and usage on Linux.
 
 ## tree
 
-用作： 显示目录树结构
+用作：显示目录树结构
 
-例子： `tree -L 2 -P "*.md|*.py" -I "_book|node_*" -FC`
+例子：`tree -L 2 -P "*.md|*.py" -I "_book|node_*" -FC`
 
 > **[info] 说明**
 >
@@ -27,4 +27,17 @@ Record the common commands and usage on Linux.
 > 1969-12-31 19:00:00|Setup|e64b2af8-68aa-1e1a-ab24-f8420e5e82ad|cm999||1|0|||||e64b2af8-68aa-1e1a-ab24-f8420e5e82ad_1553124830416_1||1|2019-03-20 19:33:50|LayaBox(iPhone; CPU iPhone OS Mac OS X)|||||||||||||||||||||true|true
 
 解决方法：`awk -F '|' -v OFS='|' '{tmp=$1;$1=$15;$15=tmp;}'1 txt > txt2`
+
+## uniq
+
+```bash
+# 去除重复行
+sort file |uniq
+
+# 查找非重复行
+sort file |uniq -u
+
+# 查找重复行
+sort file |uniq -d
+```
 
