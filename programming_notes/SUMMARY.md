@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Embedded](embedded.md)
+* [Log collection and analysis](log-collection-and-analysis.md)
 
 ## Shell
 
