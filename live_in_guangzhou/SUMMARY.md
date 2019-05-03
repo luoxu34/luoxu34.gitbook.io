@@ -35,11 +35,12 @@
     * [青年在选择职业时的考虑](shuchao/qing-nian-zai-xuan-zhe-zhi-ye-shi-de-kao-lv.md)
     * [印象](shuchao/yin-xiang.md)
 * [演讲](speech.md)
-* [故事](story.md)
+* 故事
     * [梦想](story/dream.md)
     * [专注](story/zhuan-zhu.md)
     * [格局](story/ge-ju.md)
     * [逆向思维](story/ni-xiang-si-wei.md)
     * [令人忧虑，不阅读的中国人](story/bu-yue-du-de-zhong-guo-ren.md)
     * [最最重要的事](story/zui-zhong-yao-de-shi.md)
+* [反思](fan-si.md)
 
