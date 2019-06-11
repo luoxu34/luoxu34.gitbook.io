@@ -28,6 +28,8 @@
 
 ## 工具
 
+* 钦定字体
+* Bookmarkie
 * Set Character Encoding
 * FeHelper - WEB前端助手
 * [谷歌上网助手](http://googlehelper.net/)
