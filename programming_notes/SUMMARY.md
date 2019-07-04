@@ -37,6 +37,10 @@
 * [Notes for AIX](notes-for-aix.md)
 * [Notes for CentOS](notes-for-centos.md)
 
+## Docker
+
+* [Docker Permission Denied](docker/docker-permission-denied.md)
+
 ## Big Data
 
 * [Elasticsearch](big_data/es-1.md)
