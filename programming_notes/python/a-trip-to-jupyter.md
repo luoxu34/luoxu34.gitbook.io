@@ -138,7 +138,7 @@ Alt-Enter | 运行cell的代码，然后新建cell并跳到该cell
 ---|---
 Enter | 切换到编辑模式
 a |  上方新建cell
-b | 下放新建cell
+b | 下方新建cell
 d,d | 删除选中的单元
 Shift + Up | 向上选中cell
 Shift + Down | 向下选中cell
