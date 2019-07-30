@@ -34,6 +34,7 @@
 
 * [Command Lines](linux/command-lines.md)
 * [Terminal Shortcuts](linux/terminal-shortcuts.md)
+* [Getting started with Tmux](linux/getting-started-with-tmux.md)
 * [ZFS Installation](zfs-installation.md)
 * [Notes for AIX](notes-for-aix.md)
 * [Notes for CentOS](notes-for-centos.md)
