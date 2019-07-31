@@ -110,3 +110,21 @@ setw -g mouse-select-window on  # 鼠标点击切换window
 setw -g mode-mouse on           # 开启window/pane里面的鼠标支持
 ```
 
+##  共享会话
+
+不同用户如果想使用同一个tmux会话，需要通过linux上的socket访问：
+
+```
+# root用户创建socket连接
+tmux -S /tmp/t_socket
+
+# 赋予其他用户访问权限
+chmod 777 /tmp/t_socket
+
+# 普通用户通过socket登录root的tmux会话
+tmux -S /tmp/t_socket attach
+
+# 回收会话
+rm -f /tmp/t_socket
+```
+
