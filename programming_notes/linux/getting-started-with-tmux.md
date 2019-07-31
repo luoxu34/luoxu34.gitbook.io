@@ -54,6 +54,7 @@ tmux的三级关系是：session : windows : panel
 | **f**        | 在所有窗口中查找指定文本                                     |
 |              |                                                              |
 | **面板操作** |                                                              |
+| **z**        | 最大化/还原面板                                              |
 | ”            | 将当前面板平分为上下两块                                     |
 | %            | 将当前面板平分为左右两块                                     |
 | **x**        | 关闭当前面板                                                 |
@@ -68,4 +69,44 @@ tmux的三级关系是：session : windows : panel
 | }            | 向后置换当前面板                                             |
 | Alt+o        | 逆时针旋转当前窗口的面板                                     |
 | Ctrl+o       | 顺时针旋转当前窗口的面板                                     |
+
+## 配置文件
+
+https://github.com/gpakosz/.tmux
+
+一些重要的配置
+
+```
+# 修改prefix键
+set -gu prefix2
+unbind C-a
+unbind C-b
+set -g prefix C-a
+bind C-a send-prefix
+
+# 分屏快捷键
+unbind '"'
+bind - splitw -v
+unbind %
+bind \ splitw -h
+
+# 使用Alt+方向键快速切换面板
+bind -n    M-Up select-pane -U
+bind -n  M-Down select-pane -D
+bind -n  M-Left select-pane -L
+bind -n M-Right select-pane -R
+
+# 强制vi模式
+set -g status-keys vi
+set -g mode-keys vi
+
+# 启用鼠标模式 tmux>2.1
+set-option -g mouse on
+
+# 启用鼠标模式 tmux<2.1
+setw -g mouse-resize-pane on    # 鼠标拖动调节pane的大小
+setw -g mouse-select-pane on    # 鼠标点击激活pane
+setw -g mouse-select-window on  # 鼠标点击切换window
+setw -g mode-mouse on           # 开启window/pane里面的鼠标支持
+```
 
