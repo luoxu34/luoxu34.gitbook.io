@@ -13,6 +13,7 @@
     * [招行信用卡积分篇](credit_card/xin-yong-ka-yong-ka-2.md)
 * [基金交易](fund-trading.md)
 * [数码产品尺寸数据](chi-cun.md)
+* [服务价目表](fu-wu-jia-mu-biao.md)
 
 ----
 
