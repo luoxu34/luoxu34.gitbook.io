@@ -16,7 +16,7 @@
 
 ## 安装
 
-1. 从[ES官网](https://www.elastic.co/)下载二进制压缩包、解压
+1. 从[ES官网](https://www.elastic.co/products/elasticsearch)下载二进制压缩包、解压
 2. 配置环境变量
 
 ```bash
