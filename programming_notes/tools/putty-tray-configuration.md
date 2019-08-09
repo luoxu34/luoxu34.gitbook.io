@@ -104,3 +104,8 @@
     Colour2\0,43,54\
     Colour1\147,161,161\
     Colour0\131,148,150\
+
+## 小数字键盘不能使用
+
+可以尝试勾选putty的配置中的 `Terminal` -> `Features` -> `Disable application keypad mode`
+
