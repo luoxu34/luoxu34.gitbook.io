@@ -6,6 +6,7 @@
 * [关于离职提取公积金](guan-yu-li-zhi-ti-qu-gong-ji-jin.md)
 * [入职体检](ru-zhi-ti-jian.md)
 * [洗牙体验](xi-ya.md)
+* [验光经历](yan-guang.md)
 * [招行储蓄卡](zhao-hang-chu-xu-ka.md)
 * 信用卡
     * [我的第一张信用卡](credit_card/zhao-hang-xin-yong-ka.md)
