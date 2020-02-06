@@ -6,6 +6,11 @@
 
 ## Android
 
+#### 实用工具
+
+* [VirtualXposed](https://vxposed.com/)
+* [太极](https://www.taichi-app.com/#/index)
+
 #### 生活
 
 * Share 微博客户端
