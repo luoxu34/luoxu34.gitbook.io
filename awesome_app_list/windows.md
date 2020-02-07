@@ -7,6 +7,7 @@
 * [2345看图王](http://pic.2345.com)
 * [手心输入法](http://www.xinshuru.com)
 * [PotPlayer](http://potplayer.daum.net)
+* [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) 多功能阅读器
 
 ## 办公
 
@@ -25,15 +26,19 @@
 * [Everything](http://www.voidtools.com) 系统搜索工具
 * [腾讯桌面整理](http://pc.qq.com/detail/5/detail_23125.html)
 * [Fences](http://www.stardock.com/products/fences) 桌面分类管理工具
+* [WGestures](http://www.yingdev.com/projects/wgestures) 全局鼠标手势
 
 ## 美化
 
 * Fliqlo 翻页式时间屏保
 * Mcool 透明化嵌入桌面的音乐播放器
 * MacType 字体渲染
+* TranslucentTB 任务栏透明化
+* [Rainmeter](https://www.rainmeter.net/) 桌面动效软件
 
 ## 安全与优化
 
+* [KeePassX](https://www.keepassx.org/)
 * [DISM++](https://www.chuyu.me/zh-Hans/index.html)
 * [软媒魔方](http://mofang.ruanmei.com)
 * [火绒安全软件](https://www.huorong.cn)
