@@ -6,6 +6,9 @@
 
 ## Android
 
+* [ADB工具](https://developer.android.com/studio/releases/platform-tools.html)
+* [Scrcpy](https://github.com/Genymobile/scrcpy) 投屏控制工具
+
 #### 实用工具
 
 * [VirtualXposed](https://vxposed.com/)
