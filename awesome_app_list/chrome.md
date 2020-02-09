@@ -32,8 +32,9 @@
 * Bookmarkie
 * Set Character Encoding
 * FeHelper - WEB前端助手
-* [谷歌上网助手](http://googlehelper.net/)
+* [谷歌访问助手破解版](https://github.com/haotian-wang/google-access-helper)
 * Kami - PDF and Document Markup
+* 购物党自动比价工具
 
 ## for github
 
