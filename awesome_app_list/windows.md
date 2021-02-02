@@ -1,5 +1,16 @@
 # Windows
 
+# Microsoft
+
+* Sway
+* Office
+* Outlook
+* OneNote
+* OneDrive
+* Visual Studio Code
+* Microsoft To-Do
+* Microsoft Whiteboard
+
 ## 日常
 
 * [12306Bypass - 分流抢票](https://www.12306bypass.com/)
@@ -18,7 +29,6 @@
 * [Wox](https://sspai.com/post/33460)
 * Ditto 剪贴板管理
 * QuickLook 快速预览
-* Microsoft Whiteboard
 * [桌面日历]( http://chs.desktopcal.com/chs)
 * [FastCopy](https://ipmsg.org/tools/fastcopy.html)
 * [Clover3](http://cn.ejie.me) 多标签资源管理器
