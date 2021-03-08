@@ -59,3 +59,7 @@ retransform --deleteAll
 retransform --classPattern *MathCalssNamePath
 ```
 
+#### 注意
+
+* stop之后重新attach进程，上次的entry虽然依然有效，但是已经查看不到了。
+
